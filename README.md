@@ -51,8 +51,8 @@ featuring sections like:
 2. **Open in your browser**
   Simply open index.html in your preferred browser
 3. **Customize**
-  - Replace placeholder images with your own
-  - Adjust colors, fonts, and content in style.css and index.html
+    - Replace placeholder images with your own
+    - Adjust colors, fonts, and content in style.css and index.html
 
   ---
 
