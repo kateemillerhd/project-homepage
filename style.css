@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Sansita One';
+    src: url('fonts/SansitaOne.woff2') format('woff2'),
+        url('fonts/SansitaOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amita';
+    src: url('fonts/Amita-Bold.woff2') format('woff2'),
+        url('fonts/Amita-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amita';
+    src: url('fonts/Amita-Regular.woff2') format('woff2'),
+        url('fonts/Amita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble Lt';
+    src: url('fonts/Amble-LightItalic.woff2') format('woff2'),
+        url('fonts/Amble-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('fonts/Amble-Regular.woff2') format('woff2'),
+        url('fonts/Amble-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble LtCn';
+    src: url('fonts/Amble-LightCondensedItalic.woff2') format('woff2'),
+        url('fonts/Amble-LightCondensedItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('fonts/Amble-BoldItalic.woff2') format('woff2'),
+        url('fonts/Amble-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble LtCn';
+    src: url('fonts/Amble-LightCondensed.woff2') format('woff2'),
+        url('fonts/Amble-LightCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble Lt';
+    src: url('fonts/Amble-Light.woff2') format('woff2'),
+        url('fonts/Amble-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('fonts/Amble-Bold.woff2') format('woff2'),
+        url('fonts/Amble-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('fonts/Amble-Italic.woff2') format('woff2'),
+        url('fonts/Amble-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+body {
+    background-image: url("/images/billy-huynh-W8KTS-mhFUE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%; 
+}

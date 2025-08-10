@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Sansita One';
+    src: url('SansitaOne.woff2') format('woff2'),
+        url('SansitaOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amita';
+    src: url('Amita-Bold.woff2') format('woff2'),
+        url('Amita-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amita';
+    src: url('Amita-Regular.woff2') format('woff2'),
+        url('Amita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble Lt';
+    src: url('Amble-LightItalic.woff2') format('woff2'),
+        url('Amble-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('Amble-Regular.woff2') format('woff2'),
+        url('Amble-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble LtCn';
+    src: url('Amble-LightCondensedItalic.woff2') format('woff2'),
+        url('Amble-LightCondensedItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('Amble-BoldItalic.woff2') format('woff2'),
+        url('Amble-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble LtCn';
+    src: url('Amble-LightCondensed.woff2') format('woff2'),
+        url('Amble-LightCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble Lt';
+    src: url('Amble-Light.woff2') format('woff2'),
+        url('Amble-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('Amble-Bold.woff2') format('woff2'),
+        url('Amble-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amble';
+    src: url('Amble-Italic.woff2') format('woff2'),
+        url('Amble-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
